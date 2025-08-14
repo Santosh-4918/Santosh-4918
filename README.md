@@ -5,10 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-4918" alt="santosh-4918" /></a> </p>
 
-- 🔭 I’m currently working as jr Software Enginner **at World Compliance Technology Pvt Ltd**
+- 🔭 I’m currently working as jr Software Enginner **DESCARTERS SYSTEMS GROUP**
 
-- 🌱 I’m currently learning **JavaScript , React**
+- 🌱 I’m Proficient in backend development using Java and Spring Boot, with expertise in building robust APIs and 
+implementing secure Authentication & Authorization mechanisms using JWT (JSON Web Tokens). Skilled in 
+frontend development leveraging Angular with TypeScript, along with expertise in HTML, CSS, and JavaScript. 
+Experienced in working with both relational and NoSQL databases, including MongoDB.
 
+- 👨‍💻• Frontend Development: HTML5, CSS3, JavaScript (ES6+) , React.js, Angular , RESTful API 
+• Backend Development: Java, Spring Boot, Authentication & Authorization (JWT, OAuth2)
+• Database Management: SQL ,NoSql, MongoDB
+• DevOps Tools: Azure DevOps: CI/CD Pipelines, Build and Release Management
+• Version Control: Git, GitHub
+• Build Tools: Maven, Gradle
 - 👨‍💻 All of my projects are available at [https://github.com/Santosh-4918](https://github.com/Santosh-4918)
 
 - 📫 How to reach me **santoshleo9z@gmail.com**
