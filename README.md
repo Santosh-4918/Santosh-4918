@@ -13,16 +13,18 @@ frontend development leveraging Angular with TypeScript, along with expertise in
 Experienced in working with both relational and NoSQL databases, including MongoDB.
 
 DESCARTES , Gurugram 07/2022 – Present 
- Migrated the frontend UI framework from Bootstrap 3 to Bootstrap 5, updating layouts, components, styling, 
-responsive behavior, and deprecated UI patterns. 
- Upgraded legacy Java application components to improve security, maintainability, and compatibility with 
-current platform requirements. 
- Modernized a legacy Java application by upgrading Struts 2, Spring Framework, and Apache POI components, 
-improving framework compatibility, maintainability, and XML/document-processing reliability. 
- Upgraded database connection management with Apache Commons DBCP2 and Commons Pool2, 
-strengthening connection-pool reliability and resource handling. 
- Refactored and tested impacted modules to ensure a stable, secure transition across the updated application 
-stack
+
+• Migrated the frontend UI framework from Bootstrap 3 to Bootstrap 5, updating layouts, components, styling, 
+  responsive behavior, and deprecated UI patterns. 
+• Upgraded legacy Java application components to improve security, maintainability, and compatibility with 
+  current platform requirements. 
+• Modernized a legacy Java application by upgrading Struts 2, Spring Framework, and Apache POI components, 
+  improving framework compatibility, maintainability, and XML/document-processing reliability.
+• Upgraded database connection management with Apache Commons DBCP2 and Commons Pool2, 
+  strengthening connection-pool reliability and resource handling.
+• Refactored and tested impacted modules to ensure a stable, secure transition across the updated application 
+  stack
+
 - 👨‍💻• Frontend Development: HTML5, CSS3, JavaScript (ES6+) , React.js, Angular , RESTful API 
 • Backend Development: Java, Spring Boot, Authentication & Authorization (JWT, OAuth2)
 • Database Management: SQL ,NoSql, MongoDB
