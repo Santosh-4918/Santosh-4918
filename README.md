@@ -5,13 +5,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-4918" alt="santosh-4918" /></a> </p>
 
-- 🔭 I’m currently working as jr Software Enginner **DESCARTERS SYSTEMS GROUP**
+- 🔭 I’m currently working as Software Developer **DESCARTERS SYSTEMS GROUP**
 
 - 🌱 I’m Proficient in backend development using Java and Spring Boot, with expertise in building robust APIs and 
 implementing secure Authentication & Authorization mechanisms using JWT (JSON Web Tokens). Skilled in 
 frontend development leveraging Angular with TypeScript, along with expertise in HTML, CSS, and JavaScript. 
 Experienced in working with both relational and NoSQL databases, including MongoDB.
 
+DESCARTES , Gurugram 07/2022 – Present 
+ Migrated the frontend UI framework from Bootstrap 3 to Bootstrap 5, updating layouts, components, styling, 
+responsive behavior, and deprecated UI patterns. 
+ Upgraded legacy Java application components to improve security, maintainability, and compatibility with 
+current platform requirements. 
+ Modernized a legacy Java application by upgrading Struts 2, Spring Framework, and Apache POI components, 
+improving framework compatibility, maintainability, and XML/document-processing reliability. 
+ Upgraded database connection management with Apache Commons DBCP2 and Commons Pool2, 
+strengthening connection-pool reliability and resource handling. 
+ Refactored and tested impacted modules to ensure a stable, secure transition across the updated application 
+stack
 - 👨‍💻• Frontend Development: HTML5, CSS3, JavaScript (ES6+) , React.js, Angular , RESTful API 
 • Backend Development: Java, Spring Boot, Authentication & Authorization (JWT, OAuth2)
 • Database Management: SQL ,NoSql, MongoDB
